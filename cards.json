@@ -1,1 +1,380 @@
-
+{
+  "cards": [
+    {
+      "name": "**SF9 - Zuho 주호**",
+      "idol": "**Zuho 주호**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171664999425523812/sf9_zuho.png",
+      "era": "Summer Breeze",
+      "code": "SZHSB1"
+    },
+    {
+      "name": "**SF9 - Rowoon 로운**",
+      "idol": "**Rowoon 로운**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171664999840763936/sf9_rowoon.png",
+      "era": "**Summer Breeze**",
+      "code": "SRWSB1"
+    },
+    {
+      "name": "**SF9 - Inseong 인성**",
+      "idol": "**Inseong 인성**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665000243408936/sf9_inseong.png",
+      "era": "**Summer Breeze**",
+      "code": "SISSB1"
+    },
+    {
+      "name": "**SF9 - Jaeyoon 재윤**",
+      "idol": "**Jaeyoon 재윤**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665000654454856/sf9_jaeyoon.png",
+      "era": "**Summer Breeze**",
+      "code": "SJYSB1"
+    },
+    {
+      "name": "**SF9 - Chani 찬희**",
+      "idol": "**Chani 찬희**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665006341935154/sf9_chani.png",
+      "era": "**Summer Breeze**",
+      "code": "SCNSB1"
+    },
+    {
+      "name": "**SF9 - Youngbin 영빈**",
+      "idol": "**Youngbin 영빈**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665007172399145/sf9_youngbin.png",
+      "era": "**Summer Breeze**",
+      "code": "SYBSB1"
+    },
+    {
+      "name": "**SF9 - Dawon 다원**",
+      "idol": "**Dawon 다원**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665007642165288/sf9_dawon.png",
+      "era": "**Summer Breeze**",
+      "code": "SDWSB1"
+    },
+    {
+      "name": "**SF9 - Taeyang 태양**",
+      "idol": "**Taeyang 태양**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665008040628224/sf9_taeyang.png",
+      "era": "**Summer Breeze**",
+      "code": "STYSB1"
+    },
+    {
+      "name": "**SF9 - Hwiyoung 휘영**",
+      "idol": "**Hwiyoung 휘영**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171664645715673109/1171665008531353680/sf9_hwiyoung.png",
+      "era": "**Summer Breeze**",
+      "code": "SHYSB1"
+    },
+    {
+      "name": "**LOONA - Heejin 희진**",
+      "idol": "**Heejin 희진**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674317134762004/loona_heejin.png",
+      "era": "Butterfly",
+      "code": "LHJBF1"
+    },
+    {
+      "name": "**LOONA - Vivi 비비**",
+      "idol": "**Vivi 비비**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674317617123379/loona_vivi.png",
+      "era": "Butterfly",
+      "code": "LVVBF1"
+    },
+    {
+      "name": "**LOONA - Kim Lip 김립**",
+      "idol": "**Kim Lip 김립**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674317969436682/loona_kim_lip.png",
+      "era": "Butterfly",
+      "code": "LKLBF1"
+    },
+    {
+      "name": "**LOONA - Olivia Hye 올리비아 혜**",
+      "idol": "**Olivia Hye 올리비아 혜**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674318376276048/loona_olivia_hye.png",
+      "era": "Butterfly",
+      "code": "LOHBF1"
+    },
+    {
+      "name": "**LOONA - Jinsoul 진솔**",
+      "idol": "**Jinsoul 진솔**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674318778945596/loona_jinsoul.png",
+      "era": "Butterfly",
+      "code": "LJSBF1"
+    },
+    {
+      "name": "**LOONA - Hyunjin 현진**",
+      "idol": "**Hyunjin 현진**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674319181590578/loona_hyunjin.png",
+      "era": "Butterfly",
+      "code": "LHJBF1"
+    },
+    {
+      "name": "**LOONA - Choerry 최리**",
+      "idol": "**Choerry 최리**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674373627846746/loona_choerry.png",
+      "era": "Butterfly",
+      "code": "LCRBF1"
+    },
+    {
+      "name": "**LOONA - Chuu 츄**",
+      "idol": "**Chuu 츄**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674374022115358/loona_chuu.png",
+      "era": "Butterfly",
+      "code": "LCHBF1"
+    },
+    {
+      "name": "**LOONA - Haseul 하슬**",
+      "idol": "**Haseul 하슬**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674374412181524/loona_haseul.png",
+      "era": "Butterfly",
+      "code": "LHSBF1"
+    },
+    {
+      "name": "**LOONA - Yeojin 여진**",
+      "idol": "**Yeojin 여진**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674374873559060/loona_yeojin.png",
+      "era": "Butterfly",
+      "code": "LYJBF1"
+    },
+    {
+      "name": "**LOONA - Gowon 고원**",
+      "idol": "**Gowon 고원**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674375234277466/loona_gowon.png",
+      "era": "Butterfly",
+      "code": "LGWBF1"
+    },
+    {
+      "name": "**LOONA - Yves 이브**",
+      "idol": "**Yves 이브**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171674143029219428/1171674375649501234/loona_yves.png",
+      "era": "Butterfly",
+      "code": "LYVBF1"
+    },
+    {
+      "name": "**H1-KEY - Seoi 서이**",
+      "idol": "**Seoi 서이**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171970521974456382/1171970522821705743/h1key_seoi.png",
+      "era": "**RUN**",
+      "code": "HSIRU1"
+    },
+    {
+      "name": "**H1-KEY Riina - 리이나**",
+      "idol": "**Riina - 리이나**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171970521974456382/1171970523455041586/h1key_riina.png",
+      "era": "**RUN**",
+      "code": "HRIRU1"
+    },
+    {
+      "name": "**H1-KEY - Yel 옐**",
+      "idol": "**Yel 옐**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171970521974456382/1171970522406465556/h1key_yel.png",
+      "era": "**RUN**",
+      "code": "HYERU1"
+    },
+    {
+      "name": "**H1-KEY - Hwiseo 휘서**",
+      "idol": "**Yel 휘서**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171970521974456382/1171970523824148571/h1key_hwiseo.png",
+      "era": "**RUN**",
+      "code": "HHSRU1"
+    },
+    {
+      "name": "**MAMAMOO - Hwasa 화사**",
+      "idol": "**Hwasa 화사**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://cdn.discordapp.com/attachments/1171970337961955368/1171970338280706110/mmm_hwasa.png",
+      "era": "**HIP**",
+      "code": "MHSHI1"
+    },
+    {
+      "name": "**MAMAMOO - Solar 솔라**",
+      "idol": "**Solar 솔라**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://cdn.discordapp.com/attachments/1171970337961955368/1171970338653995099/mmm_solar.png",
+      "era": "**HIP**",
+      "code": "MSLHI1"
+    },
+    {
+      "name": "**MAMAMOO - Moonbyul 문별**",
+      "idol": "**Moonbyul 문별**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://cdn.discordapp.com/attachments/1171970337961955368/1171970339207663637/mmm_moonbyul.png",
+      "era": "**HIP**",
+      "code": "MMBHI1"
+    },
+    {
+      "name": "**MAMAMOO - Wheein 휘인**",
+      "idol": "**Wheein 휘인**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://cdn.discordapp.com/attachments/1171970337961955368/1171970339606106183/mmm_wheein.png",
+      "era": "**HIP**",
+      "code": "MWIHI1"
+    },
+    {
+      "name": "**Lightsum - Yujeong 유정**",
+      "idol": "**Yujeong 유정**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836160167915702/lightsum_yujeong-1.png",
+      "era": "**Vivace**",
+      "code": "LYJVC1"
+    },
+    {
+      "name": "**Lightsum - Sangah 상아**",
+      "idol": "**Sangah 상아**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836160616702005/lightsum_sangah-1.png",
+      "era": "**Vivace**",
+      "code": "LSAVC1"
+    },
+    {
+      "name": "**Lightsum - Nayoung 나영**",
+      "idol": "**Nayoung 나영**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836161036140636/lightsum_nayoung-1.png",
+      "era": "**Vivace**",
+      "code": "LNYVC1"
+    },
+    {
+      "name": "**Lightsum - Juhyeon 주현**",
+      "idol": "**Juhyeon 주현**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836161447178301/lightsum_juhyeon-1.png",
+      "era": "**Vivace**",
+      "code": "LJHVC1"
+    },
+    {
+      "name": "**Lightsum - Jian 지안**",
+      "idol": "**Jian 지안**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836162038571018/lightsum_jian-1.png",
+      "era": "**Vivace**",
+      "code": "LJAVC1"
+    },
+    {
+      "name": "**Lightsum - Huiyeon 휘연**",
+      "idol": "**Huiyeon 휘연**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836162483175465/lightsum_huiyeon-1.png",
+      "era": "**Vivace**",
+      "code": "LHYVC1"
+    },
+    {
+      "name": "**Lightsum - Hina 히나**",
+      "idol": "**Hina 히나**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836162877435935/lightsum_hina-1.png",
+      "era": "**Vivace**",
+      "code": "LHNVC1"
+    },
+    {
+      "name": "**Lightsum - Chowon 초원**",
+      "idol": "**Chowon 초원**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171811168252350545/1171836163263307867/lightsum_chowon-1.png",
+      "era": "**Vivace**",
+      "code": "LCWVC1"
+    },
+    {
+      "name": "**Golden Child - Bomin 보민**",
+      "idol": "**Bomin 보민**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966296678731848/golcha_bomin.png",
+      "era": "**DDARA**",
+      "code": "GBMDD1"
+    },
+    {
+      "name": "**Golden Child - Jaehyun 재현**",
+      "idol": "**Jaehyun 재현**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966297223987210/golcha_jaehyun.png",
+      "era": "**DDARA**",
+      "code": "GJHDD1"
+    },
+    {
+      "name": "**Golden Child - Y 와이**",
+      "idol": "**Y 와이**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966297614078073/golcha_y.png",
+      "era": "**DDARA**",
+      "code": "GSYDD1"
+    },
+    {
+      "name": "**Golden Child - Jibeom 지범**",
+      "idol": "**Jibeom 지범**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966298062852187/golcha_jibeom.png",
+      "era": "**DDARA**",
+      "code": "GJBDD1"
+    },
+    {
+      "name": "**Golden Child - Joochan 주찬**",
+      "idol": "**Joochan 주찬**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966298440335400/golcha_joochan.png",
+      "era": "**DDARA**",
+      "code": "GJCDD1"
+    },
+    {
+      "name": "**Golden Child - Jangjun 장준**",
+      "idol": "**Jangjun 장준**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966298838814872/golcha_jangjun.png",
+      "era": "**DDARA**",
+      "code": "GJJDD1"
+    },
+    {
+      "name": "**Golden Child - Donghyun 동현**",
+      "idol": "**Donghyun 동현**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966299270811749/golcha_donghyun.png",
+      "era": "**DDARA**",
+      "code": "GDHDD1"
+    },
+    {
+      "name": "**Golden Child - Seungmin 승민**",
+      "idol": "**Seungmin 승민**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966299635712140/golcha_seungmin.png",
+      "era": "**DDARA**",
+      "code": "GSMDD1"
+    },
+    {
+      "name": "**Golden Child - Tag 태그**",
+      "idol": "**Tag 태그**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966299996442695/golcha_tag.png",
+      "era": "**DDARA**",
+      "code": "GTADD1"
+    },
+    {
+      "name": "**Golden Child - Daeyeol 대열**",
+      "idol": "**Daeyeol 대열**",
+      "rank": "✦✧✧✧✧",
+      "image": "https://media.discordapp.net/attachments/1171966295793750117/1171966300403273729/golcha_daeyeol.png",
+      "era": "**DDARA**",
+      "code": "GDYDD1"
+    }
+  ]
+}
