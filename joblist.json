@@ -1,1 +1,13 @@
-
+{
+  "job": [{
+    "Backstage Crew": {
+      "shift": 15,
+      "salary": 100,
+    },
+    {
+    "Intern":{
+      "shift": 15,
+      "salary": 100
+    }
+  }]
+}
